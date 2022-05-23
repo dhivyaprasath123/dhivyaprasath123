@@ -6,7 +6,7 @@ export default {
   name: "Dhivya prasath",
   headerTaglineOne: "Hello 👋",
   headerTaglineTwo:
-    "I'm Chetan Verma - curious designer and devloper based in New Delhi, India. ",
+    "I'm dhivya prasath at BIT. ",
 
   socials: [
     { title: "Github", link: "#" },
